@@ -1,2 +1,3 @@
-# Hadoop_Mapreduce-ud617-udacity
-Code and notes from me while taking https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
+# Introduction to Hadoop and MapReduce - ud617 - Udacity
+
+## [Notes on MS OneNote](https://onedrive.live.com/redir?page=view&resid=BC72FB0D6B0FE8DA!1028&authkey=!APwezr--dqhqkW0)
